@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/uit-student-exercise/static/css/main.df6f7f6a.chunk.css",
+    "main.js": "/uit-student-exercise/static/js/main.4080897b.chunk.js",
+    "main.js.map": "/uit-student-exercise/static/js/main.4080897b.chunk.js.map",
+    "runtime-main.js": "/uit-student-exercise/static/js/runtime-main.2e93f3a8.js",
+    "runtime-main.js.map": "/uit-student-exercise/static/js/runtime-main.2e93f3a8.js.map",
+    "static/js/2.de257bc0.chunk.js": "/uit-student-exercise/static/js/2.de257bc0.chunk.js",
+    "static/js/2.de257bc0.chunk.js.map": "/uit-student-exercise/static/js/2.de257bc0.chunk.js.map",
+    "index.html": "/uit-student-exercise/index.html",
+    "static/css/main.df6f7f6a.chunk.css.map": "/uit-student-exercise/static/css/main.df6f7f6a.chunk.css.map",
+    "static/js/2.de257bc0.chunk.js.LICENSE.txt": "/uit-student-exercise/static/js/2.de257bc0.chunk.js.LICENSE.txt",
+    "static/media/studentexercise.34568f05.png": "/uit-student-exercise/static/media/studentexercise.34568f05.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e93f3a8.js",
+    "static/js/2.de257bc0.chunk.js",
+    "static/css/main.df6f7f6a.chunk.css",
+    "static/js/main.4080897b.chunk.js"
+  ]
+}
