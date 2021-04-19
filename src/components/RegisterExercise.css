@@ -1,0 +1,156 @@
+.Registerexercise__container{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+.Registerexercise__row{
+    height: 100vh;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+.Registerexercise__svg{
+    margin-top: 0px;
+    margin-left: -20px;
+}
+.Registerexercise__sub-heading{
+    font-family: 'Poppins', sans-serif;
+    font-size: 22px;
+    margin-left: 30px;
+    margin-top: 30px;
+    color: #000000;
+}
+.Registerexercise__benefits{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.Registerexercise__benefit-name{
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+}
+.Registerexercise__image{
+    width: 600px !important;
+    height: auto;
+    margin-left: 60px;
+    margin-top: 60px;
+}
+.Registerexercise__heading{
+    margin-top: 100px;
+    margin-left: 30px;
+    font-family: 'Poppins', sans-serif;
+    font-size:36px;
+    font-weight: 600;
+    color:#000080;
+}
+.Registerexercise__svg-column2{
+    background-color: #bbe1fa;
+}
+.Registerexercise__Form-main{
+    margin-top: 60px;
+}
+.Registerexercise__Form{
+    margin-top: 20px;
+}
+.Registerexercise__property{
+    margin-left: 35px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    color: #000080;
+}
+.Registerexercise__Exam{
+    width: 50% !important;
+    height: calc(1.2em + .75rem + 6px) !important;
+    border: none !important;
+    background-color: #bbe1fa !important;
+    margin-left: 20px !important;
+    margin-top: -8px !important;
+    font-size: 16px !important;
+    font-family: 'Poppins', sans-serif !important;
+    color: #000000;
+}
+.Registerexercise__Time{
+    width: 20% !important;
+    height: calc(1.2em + .75rem + 6px) !important;
+    border: none !important;
+    background-color: #bbe1fa !important;
+    margin-left: 20px !important;
+    margin-top: -8px !important;
+    font-size: 16px !important;
+    font-family: 'Poppins', sans-serif !important;
+    color: #000000;
+}
+.Registerexercise__Submit-row{
+    margin-top: 30px;
+    align-items: center !important;
+    justify-content: center !important;
+    
+}
+.Registerexercise__Submit-Button{
+   color: #FFFFFF;
+   background-color: #000080;
+   border-radius: 20px;
+   width: 20%;
+   margin-bottom: 50px;
+}
+/*For small devices*/
+@media screen and (max-width:576px){
+    .Registerexercise__image{
+        width: 300px !important;
+        height: auto;
+        margin-left: 50px;
+    }
+    .Registerexercise__heading{
+        font-size: 27px;
+        margin-top: 30px;
+        margin-left: 1rem;
+    }
+    .Registerexercise__benefits{
+        margin-left: 1rem;
+    }
+    .Registerexercise__sub-heading{
+        margin-left: 1rem;
+    }
+    .Registerexercise__Form-main{
+        margin-top: 20px;
+    }
+    .Registerexercise__property{
+        margin-left: 1.5rem;
+        width: 160px;
+        margin-top: 40px;
+    }
+    .Registerexercise__Time{
+        margin-top: 50px !important;
+    }
+    .Registerexercise__Submit-Button{
+        width: 30%;
+    }
+}
+/*For small and medium devices*/
+@media(min-width: 576px) and (max-width: 800px){
+    .Registerexercise__image{
+        width: 337px !important;
+        height: auto;
+        margin-top: 20px !important;
+        margin-left: 20px;
+    }
+    .Registerexercise__Form-main{
+        margin-top: 20px;
+    }
+    .Registerexercise__property{
+        margin-left: 2.5rem;
+        width: 160px;
+        margin-top: 40px;
+    }
+    .Registerexercise__Time{
+        margin-top: 50px !important;
+    }
+    .Registerexercise__Submit-Button{
+        width: 30%;
+    }
+}
+/*For medium and large devices*/
+@media(min-width: 800px) and (max-width: 1200px){
+    .Registerexercise__image{
+        width: 430px !important;
+        height: auto;
+        margin-top: 85px !important;
+    }
+}
